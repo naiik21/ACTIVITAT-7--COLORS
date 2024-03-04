@@ -1,0 +1,51 @@
+.cmy div {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    position: absolute;
+}
+
+.azul {
+    background-color: aqua;
+    mix-blend-mode: darken;
+}
+
+.rosa {
+    background-color: rgb(220, 62, 220);
+    mix-blend-mode: darken;
+    left: 75px;
+}
+
+.amarillo {
+    background-color: yellow;
+    mix-blend-mode: darken;
+    top: 70px;
+    left: 40px;
+}
+
+
+.rgb div {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    position: absolute;
+}
+
+.rojo {
+    background-color: rgb(255, 0, 0);
+    mix-blend-mode: lighten;
+    left: 300px;
+}
+
+.verde {
+    background-color: rgb(0, 255, 0);
+    mix-blend-mode: lighten;
+    left: 375px;
+}
+
+.azulF {
+    background-color: rgb(0, 0, 255);
+    mix-blend-mode: lighten;
+    top: 70px;
+    left: 340px;
+}
